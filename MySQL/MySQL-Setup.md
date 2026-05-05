@@ -10,7 +10,7 @@
 To begin, we used the official **MySQL Community Installer**. This is the industry-standard way to manage MySQL products on Windows.
 
 * **Official Link:** [Download MySQL Installer](https://dev.mysql.com/downloads/installer/)
-* **Selection:** We chose the **"mysql-installer-community"** version (~556 MB) because it contains all necessary files offline, making the installation smoother on your Lenovo T480.
+* **Selection:** We chose the **"mysql-installer-community"** version (~556 MB) because it contains all necessary files offline
 
 ---
 
