@@ -78,9 +78,5 @@ Documentation/
 ├── MySQL/
 │   └── ...                                 # Database setup and reference docs
 ├── SYSTEM_DESIGN_SETUP.md                  # This setup guide & environment workflow
-├── docs/                                   # (Optional) Future diagrams & templates
-│   └── diagrams/
-│       ├── system_architecture.drawio      # Editable source diagram
-│       └── system_architecture.png         # High-resolution export preview
 └── README.md                               # Technical Documentation Vault index
 ```
