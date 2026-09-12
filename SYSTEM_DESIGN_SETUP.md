@@ -71,13 +71,12 @@ By default, draw.io loads general drawing shapes. To enable software engineering
 - **For Academic Submissions:** 
   - Go to `File` → `Export as` → `PDF`.
 
-### Recommended Repository Directory Structure
-```text
-my-system-design-project/
-├── docs/
-│   ├── architecture/
-│   │   ├── system_architecture.drawio       # Editable source diagram
-│   │   ├── system_architecture.png          # High-resolution export for README
-│   │   └── class_diagram.drawio
-├── src/                                     # Source code implementation
-└── README.md                                # Project documentation with embedded diagrams
+Documentation/
+├── MySQL/
+│   └── ...                                 # Database setup and reference docs
+├── SYSTEM_DESIGN_SETUP.md                  # This setup guide & environment workflow
+├── docs/                                   # (Optional) Future diagrams & templates
+│   └── diagrams/
+│       ├── system_architecture.drawio      # Editable source diagram
+│       └── system_architecture.png         # High-resolution export preview
+└── README.md                               # Technical Documentation Vault index
