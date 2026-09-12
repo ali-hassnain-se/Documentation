@@ -76,7 +76,7 @@ By default, draw.io loads general drawing shapes. To enable software engineering
 ```text
 Documentation/
 ├── MySQL/
-│   └── ...                                 # Database setup and reference docs
+│   └── MY-SQL-Setup.md                               # Database setup and reference docs
 ├── SYSTEM_DESIGN_SETUP.md                  # This setup guide & environment workflow
 └── README.md                               # Technical Documentation Vault index
 ```
